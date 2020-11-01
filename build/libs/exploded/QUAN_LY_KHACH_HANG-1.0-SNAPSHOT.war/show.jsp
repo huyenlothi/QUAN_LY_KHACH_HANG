@@ -9,7 +9,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
-    <title>display cutomer</title>
+    <title>display customer</title>
     <style>
         table{
             width: 100%;
@@ -50,7 +50,7 @@
     <form action="">
     <a href="add.jsp">Add new customer</a>
     <table cellpadding="10">
-        <caption>Danh sách khách hàng</caption>
+        <caption>CUSTOMERS LIST</caption>
         <tr>
             <th>ID</th>
             <th>First Name</th>

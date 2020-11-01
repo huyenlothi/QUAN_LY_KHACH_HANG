@@ -11,7 +11,7 @@
     <title>Add customer</title>
     <style>
         form{
-            width: 30%;
+            width: 20%;
             box-shadow: 0 19px 38px rgba(0,0,0,0.30), 0 15px 12px rgba(0,0,0,0.22);
             margin: 0 auto;
             padding-bottom: 2px;

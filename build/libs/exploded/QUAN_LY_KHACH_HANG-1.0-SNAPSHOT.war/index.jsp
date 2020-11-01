@@ -13,7 +13,7 @@
 </head>
 <body>
 <form action="/display" method="get">
-    <input type="submit" value="Start">
+    <input type="submit" value="DISPLAY CUSTOMERS LIST">
 </form>
 </body>
 </html>

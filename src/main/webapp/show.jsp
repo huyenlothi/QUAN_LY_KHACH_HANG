@@ -50,7 +50,7 @@
     <form action="">
     <a href="add.jsp">Add new customer</a>
     <table cellpadding="10">
-        <caption>Danh sách khách hàng</caption>
+        <caption>CUSTOMERS LIST</caption>
         <tr>
             <th>ID</th>
             <th>First Name</th>
